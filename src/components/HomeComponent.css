@@ -1,0 +1,16 @@
+.image{
+    height: 59vh;
+    max-width: 40%;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    border-radius: 0%;
+}
+
+.padding{
+   margin-right: 25px;
+   margin-top: 20px;
+}
+
